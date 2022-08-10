@@ -1,2 +1,2 @@
-# CJ-LeetCode
-My LeetCode solutions.
+# MakingWheels
+Making stuff like basic data structures and etc.
