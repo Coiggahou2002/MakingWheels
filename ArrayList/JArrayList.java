@@ -4,7 +4,7 @@ import java.util.Arrays;
  * 自扩容变长数组 (线程不安全)
  * @author Coiggahou2002
  */
-public class JArrayList<T extends Object> {
+public class JArrayList<T extends Object> implements RandomAccess{
 
     /**
      * 暴露给客户端的容器大小，等于含有的有效元素个数
